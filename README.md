@@ -6,7 +6,7 @@ Computer Science Student specializing in High-Performance Computing (HPC) & Dist
 
 ### 🔭 Currently Working On
 * **Teaching Platform Team Project**  
-  Engineering a collaborative educational platform. Setting up repository architecture, strict GitHub branch protection rules, pull request workflows, and automated pipeline integration for structured team development.
+  Engineering a collaborative educational platform for the English Speakers Club ESC. Setting up repository architecture, strict GitHub branch protection rules, pull request workflows, and automated pipeline integration for structured team development.
 
 ---
 
