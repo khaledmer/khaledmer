@@ -11,7 +11,7 @@ Computer Science Student specializing in High-Performance Computing (HPC) & Dist
 ---
 
 ### 💻 Core Tech Stack
-* **Languages:** C, C++, Go, Python, TypeScript, JavaScript, SQL (PostgreSQL, SQLite)
+* **Languages:** C, Go, Python, TypeScript, JavaScript, SQL (PostgreSQL, SQLite)
 * **Parallel & Distributed Computing:** MPI, OpenMP, Hadoop HDFS, MapReduce, Apache Flume, Hive
 * **Frontend:** React, Vite, Tailwind CSS
 * **Backend:** Node.js, Express.js, Flask
